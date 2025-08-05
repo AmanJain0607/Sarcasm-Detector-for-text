@@ -27,9 +27,6 @@ Path: streamlit_app/app.py
 This version runs a clean, interactive web interface using Streamlit. Enter a sentence and get a prediction with confidence levels for both sarcastic and regular.
 
 ▶️ Run it:
-bash
-Copy
-Edit
 cd streamlit_app
 streamlit run app.py
 💡 Sample Output:
